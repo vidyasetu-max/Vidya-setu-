@@ -1,0 +1,6 @@
+{
+  "name": "BroSis Vidya Setu",
+  "description": "BroSis Vidya Setu — Modular education platform for Class 9–12, UPSC/SSC/Banking, High-Salary Python, AI & Digital Marketing Skills, Future Kids, and Hindi/English Medium learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#059669" />
+  <rect x="36" y="36" width="440" height="440" rx="88" fill="none" stroke="#34d399" stroke-width="10" opacity="0.45" />
+  <text x="256" y="295" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="190" fill="#ffffff" letter-spacing="-6">BS</text>
+  <text x="256" y="385" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="42" fill="#d1fae5" letter-spacing="4">VIDYA SETU</text>
+</svg>
